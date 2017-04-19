@@ -12,7 +12,7 @@
 import { describe, it } from 'mocha';
 import { expect } from 'chai';
 import React, { createClass, Component, PropTypes } from 'react';
-import TestUtils from 'react-addons-test-utils';
+import ReactTestUtils from 'react-dom/test-utils';
 import withStyles from '../src/withStyles';
 
 describe('withStyles(...styles)(WrappedComponent)', () => {
