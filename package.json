@@ -1,6 +1,6 @@
 {
   "name": "sparta-isomorphic-style-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Isomorphic CSS style loader for Webpack",
   "repository": "sparta/isomorphic-style-loader",
   "author": "Kriasoft <support@kriasoft.com> (http://www.kriasoft.com)",
@@ -42,7 +42,8 @@
   },
   "dependencies": {
     "babel-runtime": "^6.6.1",
-    "loader-utils": "^0.2.14"
+    "loader-utils": "^0.2.14",
+    "prop-types": "^15.5.8"
   },
   "devDependencies": {
     "babel-cli": "^6.7.5",
@@ -62,8 +63,8 @@
     "istanbul": "^1.0.0-alpha.2",
     "jsdom": "^8.3.1",
     "mocha": "^2.4.5",
-    "react": "^15.0.1",
-    "react-addons-test-utils": "^0.14.7",
+    "react": "^15.5.4",
+    "react-addons-test-utils": "^15.5.1",
     "rimraf": "^2.5.2",
     "sinon": "^2.0.0-pre"
   },
