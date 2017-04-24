@@ -1,8 +1,8 @@
 {
   "name": "sparta-isomorphic-style-loader",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Isomorphic CSS style loader for Webpack",
-  "repository": "sparta/isomorphic-style-loader",
+  "repository": "https://github.com/spartasales/isomorphic-style-loader",
   "author": "Kriasoft <support@kriasoft.com> (http://www.kriasoft.com)",
   "contributors": [
     "Konstantin Tarkus <hello@tarkus.me>",
